@@ -1,6 +1,6 @@
-# Quantum Computing Portfolio — Scaleway QaaS
+# Quantum Computing Portfolio — Quantum QaaS
 
-Real quantum circuits executed on Scaleway's European quantum cloud.
+Real quantum circuits executed on Quantum European quantum cloud.
 
 ## Notebooks
 
