@@ -27,4 +27,4 @@ backend = ScalewayProvider(token="YOUR_TOKEN").backend("iqm_garnet")
 These circuits run on Scaleway's quantum cloud: IQM Garnet (20Q), IQM Emerald (54Q),
 AQT IBEX (12Q trapped-ion), Pasqal (neutral-atom), and NVIDIA Blackwell emulator (38Q noiseless).
 
-Contact: [your email] | Available for quantum consulting projects
+Contact: @simokx | Available for quantum consulting projects
